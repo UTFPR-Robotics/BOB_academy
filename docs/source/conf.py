@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'BoB Academy'
+copyright = '2022, André Schneider de Oliveira'
+author = 'André Schneider de Oliveira'
 
 release = '0.1'
 version = '0.1.0'
