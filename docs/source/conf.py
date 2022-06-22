@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'BoB Academy'
-copyright = '2022, André Schneider de Oliveira'
+copyright = '2022, Advanced Laboratory of Robotics and Embedded Systems, UTFPR'
 author = 'André Schneider de Oliveira'
 
 release = '0.1'
