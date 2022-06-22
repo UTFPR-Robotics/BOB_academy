@@ -4,7 +4,7 @@
 
 project = 'BoB Academy'
 copyright = '2022, Advanced Laboratory of Robotics and Embedded Systems, UTFPR'
-author = 'André Schneider de Oliveira'
+author = 'Advanced Laboratory of Robotics and Embedded Systems, UTFPR'
 
 release = '0.1'
 version = '0.1.0'
